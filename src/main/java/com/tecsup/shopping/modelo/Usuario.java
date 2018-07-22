@@ -27,7 +27,7 @@ public class Usuario {
 	
 	
 
-	// Crear los Get y Sett
+	// Crear los Get y Sett 22/07/2018 222555
 	
 	public String getId() {
 		return id;
